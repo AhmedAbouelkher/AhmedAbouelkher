@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-**I am Ahmed, a Software Engineer and backend enthusiast located in Austria**
+**I am Ahmed, a Software Engineer and backend enthusiast located in Austria**.
 
 ### Projects I am proud of
 
@@ -25,8 +25,8 @@
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-*When I remember more, I will update the list 😃*
+*When I remember more, I will update the list* 😃
 
 ### Connect With Me
 
-Feel free to Follow/Connect with my [on LinkedIn](https://www.linkedin.com/in/ahmedmabouelkheir/) or Contact me on E-mail.
+Feel free to Follow/Connect with my [on LinkedIn](https://www.linkedin.com/in/ahmedmabouelkheir/) or Message me via e-mail ahmedabouelkher1(at)gmail(dot)com.
