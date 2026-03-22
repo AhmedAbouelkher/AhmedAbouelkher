@@ -4,6 +4,7 @@
 
 ### Projects I am proud of
 
+- [go-hls-dash-video-processor](https://github.com/AhmedAbouelkher/go-hls-dash-video-processor): A Go-based video processing service that transcodes videos into adaptive bitrate streaming formats (HLS and MPEG-DASH) using FFmpeg.
 - [omailer](https://github.com/AhmedAbouelkher/omailer): A minimal Go library for sending HTML emails over SMTP with built-in inline styling.
 - [hls_downloader](https://github.com/AhmedAbouelkher/hls_downloader): A robust HLS (HTTP Live Streaming) downloader written in Go.
 - [hack_vm_translator](https://github.com/AhmedAbouelkher/hack_vm_translator): A VM translator for Nand2Tetris that converts stack-based VM code to Hack assembly language.
