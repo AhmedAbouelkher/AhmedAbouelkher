@@ -20,6 +20,7 @@
 
 ### Projects I was a small part of
 
+- [stats](https://github.com/exelban/stats): Added the Arabic localization to the macOS application.
 - _**open source**_ [media_kit](https://github.com/media-kit/media-kit): A cross-platform video player & audio player for Flutter & Dart. Built/Improved native video players on android and ios for Flutter use. Contributed to the best flutter video player source code _(in my opinion)_.
 - Multiple educational platforms (LMS) for several clients. Most noticeable apps were [Elqima](https://apps.apple.com/kz/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9/id1643443516), [Kain](https://apps.apple.com/kz/app/%D9%83%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%88%D8%A7%D8%A6%D9%84/id1589952965), [Edumate](https://apps.apple.com/us/app/edumate/id6443520187), [Science gate](https://apps.apple.com/kz/app/%D8%A7%D9%84%D8%AA%D9%81%D9%88%D9%82-%D9%84%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9/id1616002892), and many more...
 - [El-Captain Fitness app](https://play.google.com/store/apps/details?id=io.fitness.club&hl=en): A fitness tracking app with more than 100k downloads and 4.5 stars rating.
@@ -38,4 +39,4 @@
 
 ### Connect With Me
 
-Feel free to Follow/Connect with my [on Linked In](https://www.linkedin.com/in/ahmedmabouelkheir/) or Message me via e-mail ahmedabouelkher1(at)gmail(dot)com.
+Follow/Connect [on LinkedIn](https://www.linkedin.com/in/ahmedmabouelkheir/) or Message me via e-mail ahmedabouelkher1(at)gmail(dot)com.
