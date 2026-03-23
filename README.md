@@ -7,14 +7,22 @@
 - [go-hls-dash-video-processor](https://github.com/AhmedAbouelkher/go-hls-dash-video-processor): A Go-based video processing service that transcodes videos into adaptive bitrate streaming formats (HLS and MPEG-DASH) using FFmpeg.
 - [omailer](https://github.com/AhmedAbouelkher/omailer): A minimal Go library for sending HTML emails over SMTP with built-in inline styling.
 - [hls_downloader](https://github.com/AhmedAbouelkher/hls_downloader): A robust HLS (HTTP Live Streaming) downloader written in Go.
+- [spock-websocket](https://github.com/AhmedAbouelkher/spock-websocket): A simple WebSocket server for real-time messaging with web and mobile clients.
+- [VTT-Untertitle-parser](https://github.com/AhmedAbouelkher/VTT-Untertitle-parser): A handy tool to parse the untertitles of the movies and series that I watch and translate them to English or any other language of your choice.
+- [ocpp-emulator-go](https://github.com/AhmedAbouelkher/ocpp-emulator-go): A dummy OCPP 1.6 charging point implementation for testing central systems.
 - [hack_vm_translator](https://github.com/AhmedAbouelkher/hack_vm_translator): A VM translator for Nand2Tetris that converts stack-based VM code to Hack assembly language.
 - [hack_assembler_go](https://github.com/AhmedAbouelkher/hack_assembler_go): A Go implementation of a Hack assembler for the Nand2Tetris Project 6.
 - [clean_flutter_build](https://github.com/AhmedAbouelkher/clean_flutter_build): Clean Flutter apps and reduce their code size to free up disk space.
-- [spock-websocket](https://github.com/AhmedAbouelkher/spock-websocket): A simple WebSocket server for real-time messaging with web and mobile clients.
-- [VTT-Untertitle-parser](https://github.com/AhmedAbouelkher/VTT-Untertitle-parser): A tool to parse and translate movie and series subtitles.
-- [ocpp-emulator-go](https://github.com/AhmedAbouelkher/ocpp-emulator-go): A dummy OCPP 1.6 charging point implementation for testing central systems.
 - [gr_zoom](https://github.com/AhmedAbouelkher/gr_zoom): A Flutter plugin for the Zoom Client SDK.
 - [security_tester](https://github.com/AhmedAbouelkher/security_tester): Flutter library to detect suspicious apps and abnormal environments.
+- [flutter_socket_io_chat](https://github.com/AhmedAbouelkher/flutter_socket_io_chat): This app is just a demo app to teach the idea and the tools to use to create a simple Socket.IO chat.
+- [groceries-shopping-flutter-app](https://github.com/AhmedAbouelkher/groceries-shopping-flutter-app): This project is a simple implementation for an existing, amazing, and exciting UI/UX design.
+
+### Projects I was a small part of
+
+- _**open source**_ [media_kit](https://github.com/media-kit/media-kit): A cross-platform video player & audio player for Flutter & Dart. Built/Improved native video players on android and ios for Flutter use. Contributed to the best flutter video player source code _(in my opinion)_.
+- Multiple educational platforms (LMS) for several clients. Most noticeable apps were [Elqima](https://apps.apple.com/kz/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9/id1643443516), [Kain](https://apps.apple.com/kz/app/%D9%83%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D9%88%D8%A7%D8%A6%D9%84/id1589952965), [Edumate](https://apps.apple.com/us/app/edumate/id6443520187), [Science gate](https://apps.apple.com/kz/app/%D8%A7%D9%84%D8%AA%D9%81%D9%88%D9%82-%D9%84%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9/id1616002892), and many more...
+- [El-Captain Fitness app](https://play.google.com/store/apps/details?id=io.fitness.club&hl=en): A fitness tracking app with more than 100k downloads and 4.5 stars rating.
 
 ### My Stack/Tools
 
@@ -30,4 +38,4 @@
 
 ### Connect With Me
 
-Feel free to Follow/Connect with my [on LinkedIn](https://www.linkedin.com/in/ahmedmabouelkheir/) or Message me via e-mail ahmedabouelkher1(at)gmail(dot)com.
+Feel free to Follow/Connect with my [on Linked In](https://www.linkedin.com/in/ahmedmabouelkheir/) or Message me via e-mail ahmedabouelkher1(at)gmail(dot)com.
