@@ -8,6 +8,7 @@ The following projects are 100% open source.
 
 - _**In Progress**_ [ffmpeg_ply](https://github.com/AhmedAbouelkher/ffmpeg_ply): A very simple implementation of [ffplay](https://ffmpeg.org/ffplay.html) written in C and using FFmpeg & [SDL](https://libsdl.org/).
 - [go-hls-dash-video-processor](https://github.com/AhmedAbouelkher/go-hls-dash-video-processor): A Go-based video processing service that transcodes videos into adaptive bitrate streaming formats (HLS and MPEG-DASH) using FFmpeg.
+- [yt_captions_download](https://github.com/AhmedAbouelkher/yt_captions_download): A Go tool to download and convert YouTube captions/subtitles into multiple formats.
 - [omailer](https://github.com/AhmedAbouelkher/omailer): A minimal Go library for sending HTML emails over SMTP with built-in inline styling.
 - [hls_downloader](https://github.com/AhmedAbouelkher/hls_downloader): A robust HLS (HTTP Live Streaming) downloader written in Go.
 - [spock-websocket](https://github.com/AhmedAbouelkher/spock-websocket): A simple WebSocket server for real-time messaging with web and mobile clients.
