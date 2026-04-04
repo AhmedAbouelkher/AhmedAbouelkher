@@ -6,6 +6,7 @@
 
 The following projects are 100% open source.
 
+- [go-fft-raylib-impl](https://github.com/AhmedAbouelkher/go-fft-raylib-impl): A high-performance implementation of the 2D Fast Fourier Transform (FFT) using the Cooley-Tukey algorithm. This tool enables frequency-domain analysis and manipulation of images.
 - _**In Progress**_ [ffmpeg_ply](https://github.com/AhmedAbouelkher/ffmpeg_ply): A very simple implementation of [ffplay](https://ffmpeg.org/ffplay.html) written in C and using FFmpeg & [SDL](https://libsdl.org/).
 - [go-hls-dash-video-processor](https://github.com/AhmedAbouelkher/go-hls-dash-video-processor): A Go-based video processing service that transcodes videos into adaptive bitrate streaming formats (HLS and MPEG-DASH) using FFmpeg.
 - [yt_captions_download](https://github.com/AhmedAbouelkher/yt_captions_download): A Go tool to download and convert YouTube captions/subtitles into multiple formats.
@@ -42,7 +43,7 @@ The following projects are 100% open source.
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-*When I remember more, I will update the list* 😃
+_When I remember more, I will update the list_ 😃
 
 ### Connect With Me
 
