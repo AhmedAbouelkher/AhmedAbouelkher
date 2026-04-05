@@ -6,6 +6,7 @@
 
 The following projects are 100% open source.
 
+- _**In Progress**_ [waview](https://github.com/AhmedAbouelkher/waview): A simple audio visualizer built with C and Raylib.
 - [go-fft-raylib-impl](https://github.com/AhmedAbouelkher/go-fft-raylib-impl): A high-performance implementation of the 2D Fast Fourier Transform (FFT) using the Cooley-Tukey algorithm. This tool enables frequency-domain analysis and manipulation of images.
 - _**In Progress**_ [ffmpeg_ply](https://github.com/AhmedAbouelkher/ffmpeg_ply): A very simple implementation of [ffplay](https://ffmpeg.org/ffplay.html) written in C and using FFmpeg & [SDL](https://libsdl.org/).
 - [go-hls-dash-video-processor](https://github.com/AhmedAbouelkher/go-hls-dash-video-processor): A Go-based video processing service that transcodes videos into adaptive bitrate streaming formats (HLS and MPEG-DASH) using FFmpeg.
