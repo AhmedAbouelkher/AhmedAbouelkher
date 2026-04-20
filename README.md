@@ -35,11 +35,11 @@ The following projects are 100% open source.
 - [flutter_socket_io_chat](https://github.com/AhmedAbouelkher/flutter_socket_io_chat): This app is just a demo app to teach the idea and the tools to use to create a simple Socket.IO chat.
 - [groceries-shopping-flutter-app](https://github.com/AhmedAbouelkher/groceries-shopping-flutter-app): This project is a simple implementation for an existing, amazing, and exciting UI/UX design.
 
-|            [Fluid Simulation](https://github.com/AhmedAbouelkher/fluid_simulation)            |              [Particle Simulation](https://github.com/AhmedAbouelkher/go-particle_simulation)              |            [Waview](https://github.com/AhmedAbouelkher/waview)            |
-| :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| [![Fluid Simulation](res/fluid_sim_frame.jpg)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) | [![Waview](res/waview_v2_frame.jpg)](https://github.com/AhmedAbouelkher/waview) |
-|              [Spectrogram](https://github.com/AhmedAbouelkher/c_spectrogram)              |                                                                                                            |                                                                           |
-|    [![Spectrogram](res/spectogram.gif)](https://github.com/AhmedAbouelkher/c_spectrogram)     |                                                                                                            |                                                                           |
+|               [Fluid Simulation](https://github.com/AhmedAbouelkher/fluid_simulation)               |              [Particle Simulation](https://github.com/AhmedAbouelkher/go-particle_simulation)              |
+| :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| [![Fluid Simulation](res/fluid_sim_frame.jpg)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) |
+|                   [Spectrogram](https://github.com/AhmedAbouelkher/c_spectrogram)                   |                            [Waview](https://github.com/AhmedAbouelkher/waview)                             |
+|       [![Spectrogram](res/spectogram.gif)](https://github.com/AhmedAbouelkher/c_spectrogram)        |              [![Waview](res/waview_v2_frame.jpg)](https://github.com/AhmedAbouelkher/waview)               |
 
 ### Projects I was a small part of
 
