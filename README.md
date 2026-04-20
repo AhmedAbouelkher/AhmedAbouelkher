@@ -37,8 +37,8 @@ The following projects are 100% open source.
 
 |            [Fluid Simulation](https://github.com/AhmedAbouelkher/fluid_simulation)            |              [Particle Simulation](https://github.com/AhmedAbouelkher/go-particle_simulation)              |            [Waview](https://github.com/AhmedAbouelkher/waview)            |
 | :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-| [![Fluid Simulation](res/fluid_sim.gif)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) | [![Waview](res/waview_v2.gif)](https://github.com/AhmedAbouelkher/waview) |
-|              [**Spectrogram**](https://github.com/AhmedAbouelkher/c_spectrogram)              |                                                                                                            |                                                                           |
+| [![Fluid Simulation](res/fluid_sim_frame.jpg)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) | [![Waview](res/waview_v2_frame.jpg)](https://github.com/AhmedAbouelkher/waview) |
+|              [Spectrogram](https://github.com/AhmedAbouelkher/c_spectrogram)              |                                                                                                            |                                                                           |
 |    [![Spectrogram](res/spectogram.gif)](https://github.com/AhmedAbouelkher/c_spectrogram)     |                                                                                                            |                                                                           |
 
 ### Projects I was a small part of
