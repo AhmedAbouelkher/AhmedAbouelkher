@@ -8,12 +8,12 @@ The following projects are 100% open source.
 
 #### Systems and Graphics
 
-- _**In Progress**_ [fluid_simulation](https://github.com/AhmedAbouelkher/fluid_simulation): A passion project implementing an Eulerian fluid solver in C, inspired by my studies in physics and computer science.
-- _**In Progress**_ [go-particle_simulation](https://github.com/AhmedAbouelkher/go-particle_simulation): A cellular automaton-based particle simulation built with Go and Raylib, inspired by the falling sand genre and the technical design of Noita.
-- _**In Progress**_ [waview](https://github.com/AhmedAbouelkher/waview): A simple audio visualizer built with C and Raylib.
+- [fluid_simulation](https://github.com/AhmedAbouelkher/fluid_simulation): A passion project implementing an Eulerian fluid solver in C, inspired by my studies in physics and computer science.
+- [go-particle_simulation](https://github.com/AhmedAbouelkher/go-particle_simulation): A cellular automaton-based particle simulation built with Go and Raylib, inspired by the falling sand genre and the technical design of Noita.
+- [waview](https://github.com/AhmedAbouelkher/waview): A simple audio visualizer built with C and Raylib.
 - [c_spectrogram](https://github.com/AhmedAbouelkher/c_spectrogram): A high-performance STFT spectrogram visualizer in C. Features a custom radix-2 FFT implementation, Hamming windowing, and real-time rendering using Raylib.
 - [go-fft-raylib-impl](https://github.com/AhmedAbouelkher/go-fft-raylib-impl): A high-performance implementation of the 2D Fast Fourier Transform (FFT) using the Cooley-Tukey algorithm. This tool enables frequency-domain analysis and manipulation of images.
-- _**In Progress**_ [ffmpeg_ply](https://github.com/AhmedAbouelkher/ffmpeg_ply): A very simple implementation of [ffplay](https://ffmpeg.org/ffplay.html) written in C and using FFmpeg & [SDL](https://libsdl.org/).
+- [ffmpeg_ply](https://github.com/AhmedAbouelkher/ffmpeg_ply): A very simple implementation of [ffplay](https://ffmpeg.org/ffplay.html) written in C and using FFmpeg & [SDL](https://libsdl.org/).
 - [go-hls-dash-video-processor](https://github.com/AhmedAbouelkher/go-hls-dash-video-processor): A Go-based video processing service that transcodes videos into adaptive bitrate streaming formats (HLS and MPEG-DASH) using FFmpeg.
 
 #### Backend and Tools
@@ -35,6 +35,12 @@ The following projects are 100% open source.
 - [flutter_socket_io_chat](https://github.com/AhmedAbouelkher/flutter_socket_io_chat): This app is just a demo app to teach the idea and the tools to use to create a simple Socket.IO chat.
 - [groceries-shopping-flutter-app](https://github.com/AhmedAbouelkher/groceries-shopping-flutter-app): This project is a simple implementation for an existing, amazing, and exciting UI/UX design.
 
+|            [Fluid Simulation](https://github.com/AhmedAbouelkher/fluid_simulation)            |              [Particle Simulation](https://github.com/AhmedAbouelkher/go-particle_simulation)              |            [Waview](https://github.com/AhmedAbouelkher/waview)            |
+| :-------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+| [![Fluid Simulation](res/fluid_sim.gif)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) | [![Waview](res/waview_v2.gif)](https://github.com/AhmedAbouelkher/waview) |
+|              [**Spectrogram**](https://github.com/AhmedAbouelkher/c_spectrogram)              |                                                                                                            |                                                                           |
+|    [![Spectrogram](res/spectogram.gif)](https://github.com/AhmedAbouelkher/c_spectrogram)     |                                                                                                            |                                                                           |
+
 ### Projects I was a small part of
 
 - _**open source**_ [stats](https://github.com/exelban/stats): Added the Arabic localization to the macOS application.
@@ -49,11 +55,11 @@ The following projects are 100% open source.
 
 #### Actively Using right now
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+C, Java, Go, JavaScript, TypeScript, Bash, Postgres, Redis, Docker, FFmpeg, macOS, Linux, Prometheus, Grafana, AWS, DigitalOcean, Google, and Nginx.
 
 ##### Used in the past
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+Swift, Dart, Kotlin, Objective, MongoDB, MariaDB, Mosquitto, Jira, and Firebase.
 
 _When I remember more, I will update the list_ 😃
 
