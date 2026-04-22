@@ -8,6 +8,7 @@ The following projects are 100% open source.
 
 #### Systems and Graphics
 
+- [Mandelbrot_Fractal_Renderer](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer): This project explores classic complex-plane fractals: Mandelbrot set, Julia set, and Newton fractal.
 - [fluid_simulation](https://github.com/AhmedAbouelkher/fluid_simulation): A passion project implementing an Eulerian fluid solver in C, inspired by my studies in physics and computer science.
 - [go-particle_simulation](https://github.com/AhmedAbouelkher/go-particle_simulation): A cellular automaton-based particle simulation built with Go and Raylib, inspired by the falling sand genre and the technical design of Noita.
 - [waview](https://github.com/AhmedAbouelkher/waview): A simple audio visualizer built with C and Raylib.
@@ -40,6 +41,8 @@ The following projects are 100% open source.
 | [![Fluid Simulation](res/fluid_sim_frame.jpg)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) |
 |                   [Spectrogram](https://github.com/AhmedAbouelkher/c_spectrogram)                   |                            [Waview](https://github.com/AhmedAbouelkher/waview)                             |
 |       [![Spectrogram](res/spectogram.gif)](https://github.com/AhmedAbouelkher/c_spectrogram)        |              [![Waview](res/waview_v2_frame.jpg)](https://github.com/AhmedAbouelkher/waview)               |
+|                   [Mandelbrot Fractal Renderer](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer)                   |            |
+|       [![Mandelbrot_Fractal_Renderer](res/mandelbrot_2.png)](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer)        |            |
 
 ### Projects I was a small part of
 
