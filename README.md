@@ -8,6 +8,7 @@ The following projects are 100% open source.
 
 #### Systems and Graphics
 
+- [micro_market](https://github.com/AhmedAbouelkher/micro_market) Micro Market is a small microservices demo built around checkout, inventory, and invoice workflows. It mixes Go and C services, with `invoice-service` using SQLite, Redis, PDF generation, and OpenTelemetry logs in C
 - [Mandelbrot_Fractal_Renderer](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer): This project explores classic complex-plane fractals: Mandelbrot set, Julia set, and Newton fractal.
 - [fluid_simulation](https://github.com/AhmedAbouelkher/fluid_simulation): A passion project implementing an Eulerian fluid solver in C, inspired by my studies in physics and computer science.
 - [go-particle_simulation](https://github.com/AhmedAbouelkher/go-particle_simulation): A cellular automaton-based particle simulation built with Go and Raylib, inspired by the falling sand genre and the technical design of Noita.
@@ -36,13 +37,11 @@ The following projects are 100% open source.
 - [flutter_socket_io_chat](https://github.com/AhmedAbouelkher/flutter_socket_io_chat): This app is just a demo app to teach the idea and the tools to use to create a simple Socket.IO chat.
 - [groceries-shopping-flutter-app](https://github.com/AhmedAbouelkher/groceries-shopping-flutter-app): This project is a simple implementation for an existing, amazing, and exciting UI/UX design.
 
-|               [Fluid Simulation](https://github.com/AhmedAbouelkher/fluid_simulation)               |              [Particle Simulation](https://github.com/AhmedAbouelkher/go-particle_simulation)              |
-| :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| [![Fluid Simulation](res/fluid_sim_frame.jpg)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) |
-|                   [Spectrogram](https://github.com/AhmedAbouelkher/c_spectrogram)                   |                            [Waview](https://github.com/AhmedAbouelkher/waview)                             |
-|       [![Spectrogram](res/spectogram.gif)](https://github.com/AhmedAbouelkher/c_spectrogram)        |              [![Waview](res/waview_v2_frame.jpg)](https://github.com/AhmedAbouelkher/waview)               |
-|                   [Mandelbrot Fractal Renderer](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer)                   |            |
-|       [![Mandelbrot_Fractal_Renderer](res/mandelbrot_2.png)](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer)        |            |
+| [Fluid Simulation](https://github.com/AhmedAbouelkher/fluid_simulation) | [Particle Simulation](https://github.com/AhmedAbouelkher/go-particle_simulation) | [Spectrogram](https://github.com/AhmedAbouelkher/c_spectrogram) |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| [![Fluid Simulation](res/fluid_sim_frame.jpg)](https://github.com/AhmedAbouelkher/fluid_simulation) | [![Particle Simulation](res/particles_sim.gif)](https://github.com/AhmedAbouelkher/go-particle_simulation) | [![Spectrogram](res/spectogram.gif)](https://github.com/AhmedAbouelkher/c_spectrogram) |
+| [Waview](https://github.com/AhmedAbouelkher/waview) | [Mandelbrot Fractal Renderer](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer) |  |
+| [![Waview](res/waview_v2_frame.jpg)](https://github.com/AhmedAbouelkher/waview) | [![Mandelbrot_Fractal_Renderer](res/mandelbrot_2.png)](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer) |  |
 
 ### Projects I was a small part of
 
