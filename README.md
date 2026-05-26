@@ -8,6 +8,7 @@ The following projects are 100% open source.
 
 #### Systems and Graphics
 
+- [c-hls-dash-video-processor](https://github.com/AhmedAbouelkher/c-hls-dash-video-processor): C-based media processing CLI that transforms source videos into adaptive HLS and DASH streams.
 - [c_snellslens](https://github.com/AhmedAbouelkher/c_snellslens): Raylib demo that simulates a glass lens with Snell's law, using CPU and GPU shaders.
 - [micro_market](https://github.com/AhmedAbouelkher/micro_market) Micro Market is a microservices demo for checkout, inventory, and invoices. It mixes Go and C services, with `invoice-service` using SQLite, Redis, PDF generation, and OpenTelemetry logs in C
 - [Mandelbrot_Fractal_Renderer](https://github.com/AhmedAbouelkher/Mandelbrot_Fractal_Renderer): Classic complex-plane fractals: Mandelbrot, Julia, and Newton.
