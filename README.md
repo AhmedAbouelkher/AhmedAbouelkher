@@ -2,7 +2,7 @@
 
 **I am Ahmed, a Software Engineer and an Electrical Engineering master student located in Austria**.
 
-For all information about me and my latest projects, please visit my [website](https://ahmedmabouelkheir.com).
+For all information about me and my latest projects, please visit my [personal website](https://ahmedabouelkheir.com/).
 
 ### My Stack/Tools
 
